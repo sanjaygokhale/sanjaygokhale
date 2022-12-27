@@ -4,6 +4,7 @@ title: माझे बँकेतले दिवस | Mazhe Banketle Divas - 
 description: Audiobook version of माझे बँकेतले दिवस
 image: assets/img/headphones.jpeg
 type: Audiobook
+category: discography
 play:
     - name: YouTube
       url: https://www.youtube.com/watch?v=X3jUuQVuD0w

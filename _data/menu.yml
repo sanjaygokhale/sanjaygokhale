@@ -1,10 +1,10 @@
 menu_pages:
 - title: Home
-  url: /index.html
+  url: /
   category: home
 
 - title: Literature
-  url: /discography/index.html
+  url: /discography/
   category: discography
   tooltip: Literature tooltip
 

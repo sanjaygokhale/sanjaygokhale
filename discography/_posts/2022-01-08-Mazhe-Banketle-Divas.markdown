@@ -2,6 +2,7 @@
 layout: post
 title: माझे बँकेतले दिवस | Mazhe Banketle Divas
 description: Book launch - 8th January 2023
+category: discography
 image: assets/img/book_cover.jpeg
 responsiveImage:
   - src: assets/img/book_cover.jpeg

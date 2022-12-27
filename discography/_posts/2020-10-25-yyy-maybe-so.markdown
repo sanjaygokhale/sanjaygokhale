@@ -4,6 +4,7 @@ title: माझ्या कविता | Mazhya Kavita
 description: Suchat gelelya Kavita
 image: assets/img/kavita/IMG_9689.jpeg
 type: Text/Audio
+category: discography
 ---
 
   

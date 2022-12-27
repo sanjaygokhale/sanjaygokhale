@@ -1,9 +1,10 @@
 ---
 layout: posts_feed
+title: Home
+permalink: /
 category: home
 pagination:
-    enabled: true
-    permalink: '/:num/'
-    title: ':title'
-image: assets/img/band_logo.png
+  enabled: true
+  category: home
+  title: ':title'
 ---
