@@ -1,16 +1,16 @@
 # Default, Defaults
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Artist Theme
-email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
+title: Sanjay Shrikrishna Gokhale
+email: sanjaygokhale56@domain.com
+description: Website dedicated to the cultural journey of Sanjay Shrikrishna Gokhale
+baseurl: "https://sanjaygokhale.github.io" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "http://localhost:3000"
+url: "https://sanjaygokhale.github.io"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
@@ -18,6 +18,8 @@ url: "http://localhost:3000"
 twitter:
 facebook:
 google:
+youtube: https://www.youtube.com/channel/UCihhCjko-fQxS4G9sD4No4A
+soundcloud: https://soundcloud.com/sanjay_gokhale
 
-author: Nina Petropoulos
+author: Chaitanya S. Gokhale
 authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
