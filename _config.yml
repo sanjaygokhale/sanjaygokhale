@@ -7,7 +7,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Sanjay Shrikrishna Gokhale
 email: sanjaygokhale56@gmail.com
 description: Website dedicated to the cultural journey of Sanjay Shrikrishna Gokhale
-baseurl: "https://sanjaygokhale.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
 url: "https://sanjaygokhale.github.io"
