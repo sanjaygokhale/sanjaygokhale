@@ -5,7 +5,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Sanjay Shrikrishna Gokhale
-email: sanjaygokhale56@domain.com
+email: sanjaygokhale56@gmail.com
 description: Website dedicated to the cultural journey of Sanjay Shrikrishna Gokhale
 baseurl: "https://sanjaygokhale.github.io" # the subpath of your site, e.g. /blog
 
@@ -15,9 +15,9 @@ url: "https://sanjaygokhale.github.io"
 
 # Socail Media links
 # Use these to link users to your organization's social media sites
-twitter:
-facebook:
-google:
+# twitter:
+# facebook:
+# google:
 youtube: https://www.youtube.com/channel/UCihhCjko-fQxS4G9sD4No4A
 soundcloud: https://soundcloud.com/sanjay_gokhale
 
