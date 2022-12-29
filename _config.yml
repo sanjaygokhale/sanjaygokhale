@@ -10,7 +10,7 @@ description: Website dedicated to the cultural journey of Sanjay Shrikrishna Gok
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "https://sanjaygokhale.github.io"
+url: "http://127.0.0.1:4000" #"https://sanjaygokhale.github.io"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
@@ -22,4 +22,4 @@ youtube: https://www.youtube.com/channel/UCihhCjko-fQxS4G9sD4No4A
 soundcloud: https://soundcloud.com/sanjay_gokhale
 
 author: Chaitanya S. Gokhale
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+authorBio: Priveleged to have a hobby as a profession, a professor in the week and hiker on the weekends. My name is Chaitanya and this is my fathers website.
