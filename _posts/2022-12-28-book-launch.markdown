@@ -56,3 +56,6 @@ author: Sanjay Gokhale
 7:15 - 7:20 - Aabhar Pradarshan
 
 7:20 - 8:00 - Snacks/coffee
+
+
+<a href="{{ site.url }}">Home</a>
