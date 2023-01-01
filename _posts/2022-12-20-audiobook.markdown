@@ -12,7 +12,7 @@ author: Sanjay Gokhale
 
 संपूर्ण playlist युट्यूबवर येत आहे ८ जानेवारीला ! <!--[Youtube][link0]-->
 
-Recording: श्री प्रसाद जोशी 
+Recording: श्री प्रसाद जोशी,  Soundvision, Pune
 
 Teaser:
 
