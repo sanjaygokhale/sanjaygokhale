@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Karyakram"
+title:  "कार्यक्रम आजवरचे"
 date:   2022-12-20 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: kavita/IMG_9689.jpeg
+thumbnail: IMG_9738.jpg
 categories: program
 
 # Information for the author block
@@ -11,33 +11,41 @@ author: Sanjay Gokhale
 ---
 
 
-### Ut Labore et Dolore
+<!--### Ut Labore et Dolore-->
 
 <!--Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:-->
 
-#### कार्यक्रम
+## कार्यक्रम आजवरचे
 
 - - -
 
-1. **त्या  कोवळ्या फुलांचा** - अनिल कांबळे - कविता वाचन
-2. Kavita Eka Nirakushachi - Sudhir Moghe - शाल्मली गोखले, डॉ. विक्रांत महाजन, डॉ. अश्लेषा महाजन- कविता वाचन
-3. Nakshatranche Divas (druckshravya) - Aruk Kakatkar - निवेदन
-4. Swara Saurabh (hindi - marathi lokapriya gani) Jayashree Kulkarni, Dayanad Ghotkar - निवेदन
-5. आर्त मोहिनी लता (Madan Mohan) - Aparna Sant, Shruti Devasthali, Reshma Kapshikar - निवेदन
-6. Anandaghan (Bharatratna Lata Mangeshkar) - Chaitrali Abhyankar, Aparna Sant, Hemant Walunjkar - निवेदन
-7. Kanchansandhya (Kavi Ba Bha Borkar) - Chaitrali Abhyankar, Aparna Sant, Dr. Chandrashekhar Kulkarni - निवेदन
-8. Chalavinaara Tu - Bhakti Sangeet - Ashutosh Kulkarni, Aparna Kelkar, Asawari Deglurkar - निवेदन
-9. Bhakti Sangeet (Shree Gondawle) - Sangeetkar Gayak Arun Saraf - निवेदन
-9. Pandit Jitendra Abhisheki Shruti Mahotsav - Devaki Pandit, Raja Kale, Gauri Pathare, Sudhir Nayak - निवेदन
-10. Kavi Grace (druckshravya) - Deenayan Kala Parva -  कविता वाचन
-11. Goojagoshti (Na si Phadke, Vi Sa Khandekar) - Setumancha - Geetanjali Joshi, Deepali Datar, Mukund Datar, Dilip Limaye -अभिवाचन
-12. Sahitya Gangechya Kathi (Na Si Phadke - Sahitya Yatra) - Geetanjali Joshi, Deepali Datar, Anirudha Dadke - अभिवाचन
-13. Me... yesuvahini - Samidha, Pune - Veena Gokhale, Sangeeta Thosar, Dilip Thosar, Dr. Chitralekha Purandare - अभिवाचन
-14. Avasache Chandine (Mumbai Doordarshan) - Sant Shreshta Dnyaneshwer Mahrajhynachya विराण्या - Anjali Marathi, Yogita Godbole, Amruta Gokhale, Dr. Vandana Bokil - निवेदन
-15. Putra Sangati (Ga di Ma, Ram Kadam) - Shreedhar Madgulkar, VIjay Kadam - निवेदन
-16. Hidi Marathi Lokapriya Gaani - Paricharika Din - Deenayan Kala parva - Rajesh Datar, Pradnya Deshpande - निवेदन
-17. Laviyale Nandadeep (Maniv Verma) - Deenayan Kala parva - Aparna Sant - निवेदन
-18. Athvanitli Gaani - Rahul Ghorpade, Bhagyashree Abhyankar - निवेदन
+### कविता वाचन
+
+1. **त्या  कोवळ्या फुलांचा** - अनिल कांबळे
+2. **कविता एका निरंकुशाची** - सुधीर मोघे - शाल्मली गोखले, डॉ. विक्रांत महाजन, डॉ. अर्चना महाजन
+3. **कवी ग्रेस (दृकश्राव्य)** - दीनायन कला पर्व 
+
+### निवेदन
+
+3. **नक्षत्रांचे दिवस** (दृकश्राव्य) - अरुण काकतकर
+4. **स्वर सौरभ** (हिंदी मराठी लोकप्रिय गाणी) - जयश्री कुलकर्णी, दयानंद घोटकर
+5. **आर्त मोहिनी लता** (मदन मोहन) - अपर्णा संत, श्रुति देवस्थळी, रेश्मा कापशीकर
+6. **आनंदघन** (भारतरत्न लता मंगेशकर) - चैत्राली अभ्यंकर, अपर्णा संत, हेमंत वाळुंजकर
+7. **कांचनसंद्या** (कवी बा भा बोरकर) - चैत्राली अभ्यंकर, अपर्णा संत, डॉ. चंद्रशेखर कुलकर्णी 
+8. **चालविणारा तू** - भक्ति संगीत - आशुतोष कुलकर्णी, अपर्णा केळकर, आसावरी देगलुरकर
+9. **भक्ति संगीत** (श्री गोंदवले) - संगीतकार गायक अरुण सराफ
+9. **पंडित जितेंद्र अभिषेकी स्मृती महोत्सव** - देवकी पंडित, राजा काळे, गौरी पठारे, सुधीर नायक
+14. **अवसेचे Chandine** (मुंबई दूरदर्शन) - संत श्रेष्ठ ज्ञानेश्वर महाराजांच्या विराण्या - अंजली मराठे, योगिता गोडबोले, अमृता गोखले,  डॉ. वंदना बोकील
+15. **पुत्र सांगती** (ग. दी. मा. , राम कदम) - श्रीधर माडगुळकर, विजय कदम
+16. **हिंदी मराठी लोकप्रिय गीते** - परिचारिका दिन - दीनायन कला पर्व  - राजेश दातार, प्रज्ञा देशपांडे
+17. **लावियेले नंदादीप** (माणिक वर्मा) - दीनायन कला पर्व - अपर्णा संत
+18. **आठवणीतील गाणी** - राहुल घोरपडे, भाग्यश्री अभ्यंकर
+
+### अभिवाचन 
+
+11. **गुजगोष्टी** (ना सी फडके, वी स खांडेकर) - सेतुमंच - गीतांजली जोशी, दीपाली दातार, मुकुंद दातार , दिलीप लिमये
+12. **साहित्य गंगेच्या काठी** (ना. सी. फडके - साहित्य यात्रा) - गीतांजली जोशी, दीपाली दातार, अनिरुद्ध दडके 
+13. **मी... येसूवहिनी** - समिधा, पुणे - वीणा गोखले, संगीता ठोसर, दिलीप ठोसर, डॉ.चित्रलेखा पुरंदरे
 
 [link1]: example.net
 [link2]: example.com
