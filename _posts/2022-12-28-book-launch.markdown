@@ -14,7 +14,7 @@ author: Sanjay Gokhale
 
 ## ८ जानेवारी २०२३ | 8th January 2023!
 
-## Venue
+## स्थळ | Venue
 सहकार सदन, 
 इनकम टॅक्स लेन, 
 प्रभात रोड
@@ -23,7 +23,7 @@ author: Sanjay Gokhale
 ## वेळ | Time
 सायंकाळी ५:३० ते ७:३०
 
-## Agenda
+<!--## Agenda
 
 5:30 - 5:35 - Swagat
 
@@ -55,7 +55,7 @@ author: Sanjay Gokhale
 
 7:15 - 7:20 - Aabhar Pradarshan
 
-7:20 - 8:00 - Snacks/coffee
+7:20 - 8:00 - Snacks/coffee-->
 
 
 <a href="{{ site.url }}">Home</a>
