@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " कवितांचे पान "
+title:  "माझी कविता"
 date:   2022-01-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: kavita/IMG_9689.jpeg
