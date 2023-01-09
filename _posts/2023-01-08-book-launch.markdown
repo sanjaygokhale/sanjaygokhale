@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " पुस्तक प्रकाशन!"
-date:   2023-01-07 09:11:03
+date:   2023-01-08 09:11:03
 description: Announcement for the book launch and details.
 thumbnail: candle.jpg
 categories: category1
