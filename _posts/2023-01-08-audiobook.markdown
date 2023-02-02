@@ -17,4 +17,6 @@ Recording: श्री प्रसाद जोशी,  Soundvision, Pune
 [link0]: https://www.youtube.com/playlist?list=PLrofJ3Z9qDArjjp3imt71u7p5sVecQlp_
 
 
+![](/assets/img/gokhale_mic.jpeg)
+
 <a href="{{ site.url }}">Home</a>
